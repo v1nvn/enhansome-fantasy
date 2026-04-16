@@ -1,8 +1,8 @@
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,369 | 🐛 62 | 📅 2026-04-02
+# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,762 | 🐛 63 | 📅 2026-04-02
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 455,369 | 🐛 62 | 📅 2026-04-02 list thing. For science fiction books, see [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 4,855 | 🐛 0 | 📅 2025-12-22.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 455,762 | 🐛 63 | 📅 2026-04-02 list thing. For science fiction books, see [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 4,857 | 🐛 0 | 📅 2025-12-22.*
 
 *Please read the [Contributing Guidelines](origin/contributing.md) before contributing.*
 
